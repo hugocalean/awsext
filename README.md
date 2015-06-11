@@ -40,6 +40,5 @@ encapsulates the reconnection.
 		* import awsext 
 		* print awsext.Version
 	* Should display "1.1" - if not, then research the error
-	 
 
 
