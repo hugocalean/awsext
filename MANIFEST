@@ -1,0 +1,16 @@
+setup.py
+src/awsext/__init__.py
+src/awsext/exception.py
+src/awsext/ec2/__init__.py
+src/awsext/ec2/connection.py
+src/awsext/ec2/remote.py
+src/awsext/ec2/spotprice.py
+src/awsext/iam/__init__.py
+src/awsext/iam/connection.py
+src/awsext/s3/__init__.py
+src/awsext/s3/connection.py
+src/awsext/sqs/__init__.py
+src/awsext/sqs/connection.py
+src/awsext/sqs/messagedurable.py
+src/awsext/vpc/__init__.py
+src/awsext/vpc/connection.py
